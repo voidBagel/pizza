@@ -1,0 +1,45 @@
+{
+    "toppings": [
+      {
+        "name": "Pepperoni",
+        "price": 1.5
+      },
+      {
+        "name": "Mushrooms",
+        "price": 1.0
+      },
+      {
+        "name": "Onions",
+        "price": 0.75
+      },
+      {
+        "name": "Sausage",
+        "price": 1.75
+      },
+      {
+        "name": "Bacon",
+        "price": 2.0
+      },
+      {
+        "name": "Extra cheese",
+        "price": 1.25
+      },
+      {
+        "name": "Black olives",
+        "price": 1.0
+      },
+      {
+        "name": "Green peppers",
+        "price": 0.75
+      },
+      {
+        "name": "Pineapple",
+        "price": 1.5
+      },
+      {
+        "name": "Spinach",
+        "price": 1.0
+      }
+    ]
+  }
+  
